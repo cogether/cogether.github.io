@@ -17,7 +17,7 @@ header .row > div:nth-child(1) > a {
     display: block;
     width: 145px;
     height: 50px;
-    background: url(https://chogether.github.io/tgd/images/logo-sky.png) no-repeat;
+    /*background: url(https://chogether.github.io/tgd/images/logo-sky.png) no-repeat;*/
 }
 
 header .row > div:nth-child(1) > a img {
@@ -312,7 +312,7 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
 
 #board-info #viewers-area .fa-user:before {
     color: rgba(10, 59, 84, 0);
-    content: url("https://chogether.github.io/tgd/images/badge.png");
+    /*content: url("https://chogether.github.io/tgd/images/badge.png");*/
 }
 
 #article-list #article-list-menu > .btn.best {
