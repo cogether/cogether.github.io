@@ -301,12 +301,12 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
 }
 
 #board-info #viewers-area #viewers:before {
-    content: "트둥이 ";
+    content: "칼찌단 ";
     cursor: text;
 }
 
 #board-info #viewers-area #viewers:after {
-    content: "명";
+    content: "명 잠복중";
     cursor: text;
 }
 
