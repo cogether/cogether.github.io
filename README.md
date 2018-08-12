@@ -1,2 +1,2 @@
 # cogether.github.io
-cogether scrpit
+코게더 수정 테스트 
