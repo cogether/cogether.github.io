@@ -234,7 +234,7 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
     z-index: 1;
 }
 
-#board-info #board-info-profile-img {
+/*#board-info #board-info-profile-img {
     border-radius: 50%;
     border: 3px solid #ffce31;
     float: left !important;
@@ -243,9 +243,18 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
     top: -10px;
     width: 66px;
     height: 70px;
-    /*background: url(https://static-cdn.jtvnw.net/jtv_user_pictures/sonycast_-profile_image-ebca8b2445bd0c66-300x300.png) no-repeat -6px 0px;*/
-   /* padding-left: 64px;*/
-   /* background-size: 85px; */
+    background: url(https://static-cdn.jtvnw.net/jtv_user_pictures/sonycast_-profile_image-ebca8b2445bd0c66-300x300.png) no-repeat -6px 0px;
+   padding-left: 64px;
+   background-size: 85px; 
+}*/
+
+#board-info #board-info-profile-img {
+
+    float: left !important;
+    margin-right: 10px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+
 }
 
 #board-info #board-info-bottom {
