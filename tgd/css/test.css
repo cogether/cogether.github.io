@@ -249,12 +249,10 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
 }*/
 
 #board-info #board-info-profile-img {
-
     float: left !important;
     margin-right: 10px;
     background-color: #ffffff;
     border: 1px solid #000000;
-
 }
 
 #board-info #board-info-bottom {
