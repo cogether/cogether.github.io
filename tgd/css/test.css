@@ -218,7 +218,7 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
 }
 
 #board-info {
-    border-top: 3px solid #ffce31;
+    border-top: 3px solid #000000;
     border-radius: 2px;
     overflow: inherit;
     padding: 5px 5px 0 8px;
