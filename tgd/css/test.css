@@ -174,9 +174,9 @@ header #header-bar #header-top-notice strong.notice-badge {
     background: #ffebac ;
 }
 
-img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
+/*img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
     content:url("https://static-cdn.jtvnw.net/badges/v1/eecbcf09-7566-4cf6-a54c-d5e6f9cb6d01/1");
-}
+}*/
 
 #article-list>.article-list-row {
     border-right: 0;
