@@ -289,6 +289,16 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
     font-weight: 700;
 }
 
+/*#board-info h1>a.badge.badge-live {
+    background: #c00;
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+    right: 0px;
+    margin-right: 1em;
+    margin-top: 2.8em;
+}*/
+
 #board-info h1>a.badge.badge-live {
     margin-left: 80px;
     font-size: 0px;
@@ -501,14 +511,4 @@ header:before {
     to {
         transform: rotate(360deg);
     }
-}
-
-#board-info h1>a.badge.badge-live {
-    background: #c00;
-    color: #fff;
-    text-decoration: none;
-    position: absolute;
-    right: 0px;
-    margin-right: 1em;
-    margin-top: 2.8em;
 }
