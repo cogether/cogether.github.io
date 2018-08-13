@@ -503,3 +503,10 @@ header:before {
     }
 }
 
+#board-info h1 .badge-success, #board-info h1 .badge-default {
+    position: absolute;
+    right: 0px;
+    margin-right: 1em;
+    margin-top: 2.8em;
+    background-color: #ffce31;
+}
